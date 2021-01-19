@@ -22,11 +22,11 @@ The map and some components are imported from Epic Games Marketplace.
 
 When the game starts you can see a matinee cinematic
 
-![](media/3173255a3cb24e91772da37fb9c5cac7.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801218870689136670/unknown.png)
 
 And a widget with HUD
 
-![](media/4946f100e6a98853a2bd2d0be29179c8.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801218941719412756/unknown.png)
 
 Player’s blueprint controls movements and the action fire.
 
@@ -35,21 +35,21 @@ The enemies have many components as you can see:
 Blueprint class to the artificial intelligence, Blackboard, Behavior Tree and
 some Behavior Tree Tasks.
 
-![](media/54d3b4a2d0a69350c895c910784963c7.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219032064852008/unknown.png)
 
 There is Behavior Tree. To control the enemy’s artificial intelligence, their
 moves, and actions.
 
-![](media/23270a94fffb7b23bd0738b77fe7b82f.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219150076313620/unknown.png)
 
 Also, there is the Game Mode, Game mode controls the enemies and player respawn.
 
-![](media/524fce6acab09160028ee699d7871251.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219213665894420/unknown.png)
 
 The pickup ammunition has their own blueprint to control the floating movement
 and when the player picks up it.
 
-![](media/302392a89e9c575b3694566b5c3646b7.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219274315530301/unknown.png)
 
 If you want to see all project and how it works you can see it in the GitHub
 repository:
@@ -66,18 +66,19 @@ There is a link where you can find the game:
 
 There you can see this:
 
-![](media/0b3bcf098ab5f261ef558246e39ba02c.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219331726770176/unknown.png)
 
 You only need to download it. But you can see this message. It is ok the file
 its ok, it will not destroy your PC, just download it.
 
-![](media/273fe95b8e6073f0f1a7e12cf6b74fc9.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219390652547072/unknown.png)
 
 To play to need to download it, unzipped and run MyFirstProject application. You
 can find it in
 “\\ManVsEvilForcesRelease.zip\\UnrealBuild\\WindowsNoEditor\\MyFirstProject”
 
-![](media/bbbd9f30e94b58a9f5eda33846e14343.png)
+
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219444877295666/unknown.png)
 
 **Game Presentation:**
 
@@ -107,13 +108,15 @@ infinity, you have to survive.
 When you start the game, you see an intro screen.
 
 There is a bar that shows your life, another to show your ammunition and on the
-right side a point
-counter.![](media/85dc501ffb997508a09a47b3375e8aed.png)![](media/40b8fc95da9b564f21d87752dad1f350.png)
+right side a point counter.
+
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219510043803668/unknown.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219558446071848/unknown.png)
 
 **Game Over:**
 
 You lose when you lose all your life points. And now there are not ammunition
 picks up and 0 points.
 
-![](media/ac3680562137b25bbeccac125da1a55e.png)
+![](https://cdn.discordapp.com/attachments/799826831368126464/801219621956747274/unknown.png)
 
