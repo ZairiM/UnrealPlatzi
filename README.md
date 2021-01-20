@@ -1,3 +1,6 @@
+**Note**
+This Repo exceded the github lfs quota, so if you'd like to get the source code, [this is the latest version](https://drive.google.com/file/d/1FoH1nhRro5vMht22IZPGa3P_AtLOKHpu/view?usp=sharing)
+
 **ManVSEvilForces**
 
 *By Zairi Marion Pineda*
